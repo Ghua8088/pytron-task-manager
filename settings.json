@@ -1,0 +1,8 @@
+{
+    "title": "Pytron Task Manager",
+    "url": "build/frontend/index.html",
+    "width": 1000,
+    "height": 700,
+    "frameless": true,
+    "resizable": true
+}
