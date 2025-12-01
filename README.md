@@ -1,6 +1,15 @@
-# Pytron Task Manager
+# PyDash
+<p align="center">
+  <img src="PyDash.png" alt="PyDash Logo" width="128" />
+</p>
 
+---
+<p align="center">
+  <img src="example.png" alt="PyDash Screenshot" />
+</p>
 A modern, matte-black system monitor and task manager built with Pytron (Python + React).
+
+---
 
 ## Features
 - Real-time CPU, Memory, and Disk usage monitoring.
@@ -8,8 +17,8 @@ A modern, matte-black system monitor and task manager built with Pytron (Python 
 - Process list sorted by CPU usage.
 - Ability to terminate processes.
 - Frameless window with custom title bar.
-
-## Setup
+---
+### Setup
 
 1.  **Install Python Dependencies**
     ```bash
@@ -23,7 +32,9 @@ A modern, matte-black system monitor and task manager built with Pytron (Python 
     npm install
     ```
 
-## Running the App
+---
+
+### Running the App
 
 1.  **Build the Frontend**
     ```bash
@@ -37,7 +48,7 @@ A modern, matte-black system monitor and task manager built with Pytron (Python 
     pytron run
     ```
 
-## Development
+### Development
 
 For development, you can run the app in dev mode:
 ```bash
